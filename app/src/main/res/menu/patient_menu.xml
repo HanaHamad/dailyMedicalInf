@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="نصائح" />
+
+    <item
+        android:id="@+id/advices"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="التسجيلات" />
+
+    <item
+        android:id="@+id/ChatS"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="الرسائل" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="الصفحة الشخصية" />
+
+
+</menu>

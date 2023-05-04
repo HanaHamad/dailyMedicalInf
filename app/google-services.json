@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931669321733",
+    "project_id": "dailymedicalinf",
+    "storage_bucket": "dailymedicalinf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931669321733:android:7f5901e6cc3ce6d3a7546c",
+        "android_client_info": {
+          "package_name": "com.example.dailymedicalinf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931669321733-mq0gqk2771pjj95lv9ge1h8u88tnfn68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5hY_GULBFjWsOcuadsffhnLM2Xi4PN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931669321733-mq0gqk2771pjj95lv9ge1h8u88tnfn68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

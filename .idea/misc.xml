@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/edit_text_shape1.xml" value="0.2035" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_arrow_back.xml" value="0.21" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_chat_24.xml" value="0.1835" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_exit_to_app_24.xml" value="0.1" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_people_24.xml" value="0.1405" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_settings_24.xml" value="0.1405" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_video_library_24.xml" value="0.1835" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_video_settings_24.xml" value="0.1835" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/ic_baseline_videocam_24.xml" value="0.1405" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/input_selector.xml" value="0.1" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/left_shape.xml" value="0.146" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/radio_normal.xml" value="0.1" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/radio_selected.xml" value="0.1" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/radio_selector.xml" value="0.1" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/right_shape.xml" value="0.146" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable-v24/shape_course_users.xml" value="0.146" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable/email.xml" value="0.151" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable/ic_baseline_library_add_24.xml" value="0.2095" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable/password.xml" value="0.151" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/drawable/person_add.xml" value="0.151" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_add_advice.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_add_video.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_advice_content.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_advices_users.xml" value="0.21875" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_chatting.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_doctor_main.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_edit_advice.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_edit_advice2.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_edit_video.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_patient_main.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_send_email.xml" value="0.21875" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_show_video.xml" value="0.234375" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_sign_up.xml" value="0.18090452261306533" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_video2_patient.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/activity_view_video_edit.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/advice_users_template.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/chat_item.xml" value="0.2359375" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/description_video_dialog.xml" value="0.1875" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_all_advices.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_doctor_advice.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_doctor_chatting.xml" value="0.2359375" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_doctor_edit.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_doctor_pdf.xml" value="0.2359375" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_doctor_profile.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_patient_chatting.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/fragment_regestered_advices.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/item_advices.xml" value="0.2359375" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/left_chat.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/notification.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/patient_video_templet.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/right_chat.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/send_mail_dialog.xml" value="0.21875" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/layout/video_item.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/menu/chattingmenu.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/menu/doctor_menu.xml" value="0.264" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/menu/editadvicemenu.xml" value="0.25" />
+        <entry key="..\:/Users/sa/AndroidStudioProjects/dailyMedicalInf/app/src/main/res/menu/patient_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

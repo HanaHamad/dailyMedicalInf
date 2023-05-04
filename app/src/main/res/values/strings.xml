@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">dailyMedicalInf</string>
+    <string name="email">Email</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="address">address</string>
+    <string name="name">name</string>
+    <string name="confirmpassword">confirmPassword</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="patient">patient</string>
+    <string name="doctor">doctor</string>
+    <string name="video_name">Video Name</string>
+    <string name="sendMail">sendMail</string>
+    <string name="save">save</string>
+    <string name="Firstname">FirstName</string>
+    <string name="Save">Save</string>
+    <string name="Middlename">MiddleName</string>
+    <string name="Lastname">LastName</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
